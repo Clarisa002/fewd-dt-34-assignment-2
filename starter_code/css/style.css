@@ -109,7 +109,7 @@ header button{
 section{
   background: white;
   width:100%;
-  height:300px;
+  
   padding: 45px
 }
 ol{
@@ -169,7 +169,7 @@ border: none;
 .sign{
     background: yellow;
   width:100%;
-  height:60px;
+  
  padding: 15px;
 }
 h4{
